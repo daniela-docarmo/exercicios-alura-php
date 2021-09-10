@@ -7,6 +7,6 @@ Espero que gostem! 💜
 
 #### Passos caso desejem clonar o repositório: 
 
-Clone o repositório: git@github.com:daniela-docarmo/exercicios-alura-php.git
-Acesse a pasta do projeto: cd exercicios-alura-php
+* Clone o repositório: git@github.com:daniela-docarmo/exercicios-alura-php.git
+* Acesse a pasta do projeto: cd exercicios-alura-php
 
